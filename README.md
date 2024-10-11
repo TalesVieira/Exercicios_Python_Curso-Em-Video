@@ -11,5 +11,6 @@ Cada exercício inclui o enunciado da questão e foi revisado pelo ChatGPT. Alé
 ## Como utilizar
 
 1. Navegue até a pasta do mundo desejado.
-2. Abra o arquivo correspondente ao exercício que deseja revisar.
-3. Leia o enunciado e estude o código comentado.
+2. Abra a pasta da aula desejada.
+3. Abra o arquivo correspondente ao exercício que deseja revisar.
+4. Leia o enunciado e estude o código comentado.
