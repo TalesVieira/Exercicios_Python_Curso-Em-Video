@@ -4,7 +4,7 @@
 
 # Exibe uma linha de separação e o título do programa
 print('-=' * 20)
-print('Analisador de Triângulos')
+print('Analisador de Triângulos ')
 print('-=' * 20)
 
 # Entrada de dados: Solicita ao usuário os comprimentos dos três segmentos de reta
